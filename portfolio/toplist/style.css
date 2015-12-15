@@ -20,10 +20,9 @@
     
     font-family: sans-serif;
     letter-spacing: 1px;
-    font-size: lager;
+    font-size: larger;
 }
 
-}
 
 .app {
 	display: -webkit-flex;
