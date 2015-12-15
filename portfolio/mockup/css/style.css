@@ -7,4 +7,9 @@
 	-moz-box-sizing: border-box;
 	-ms-box-sizing: border-box;
 	box-sizing:border-box;
+
+.grid {
+    margin: 0 auto;
+    max-width: 1200px;
+    width: 100%;
 }
