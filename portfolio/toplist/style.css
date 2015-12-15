@@ -1,9 +1,5 @@
-.description {
-	color:red;
-}
-
 * {
-   outline: 1px solid red !important;
+   outline: 0px solid red !important;
 }
 * {
 	-webkit-box-sizing:border-box;
@@ -17,9 +13,15 @@
 }
 .description {
 	max-width: 705px;
+	color: #7C8B88;
 }
 
 .app {
 	display: -webkit-flex;
 	display: flex;
+}
+
+h1 {
+	background-color: #33BEBE;
+	color: white;
 }
