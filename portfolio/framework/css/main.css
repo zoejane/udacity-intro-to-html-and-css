@@ -72,3 +72,8 @@ h1 {
 .col-12 {
 	width: 100%;
 }
+
+p {
+	padding: 10px;
+	margin: 10px;
+}
