@@ -17,6 +17,11 @@
 
     margin-left: 30px;
     margin-right: 30px;
+    
+    font-family: sans-serif;
+    letter-spacing: 1px;
+    font-size: lager;
+}
 
 }
 
@@ -33,5 +38,8 @@ h1 {
 
     padding-top: 35px;
     margin-bottom: 35px;
+
+    font-family: sans-serif;
+    letter-spacing: 2px;
    
 }
